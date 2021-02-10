@@ -1,0 +1,17 @@
++< !DOCTYPE html>
++<html lang="es">
++<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="widt=device-width, inicial-scale=1.0">
+		<title>dragQueen | Demo</title>
+		<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@3005display=swap" rel="stylesheet"
+		<link rel="stylesheet" href="styles/normalize.css"
+		<link rel="stylesheet" href="styles/index.css">
+		<link rel="shortcut icon" href"assets/favicon.png" type="image/xicon">
+</head>
+<body class="container">
+		<a href="https://www.youtube.com/watch?v=j5HNgax4dd8" target="_blank">
+		</a>
+		<h1 class"title">si no sabes de historia ponte a estudiar</h1>
++</body>
++</html>
